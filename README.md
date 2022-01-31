@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ruben Ros</h1>
 <h3 align="center">A computer-loving historian from Utrecht</h3>
 
-- 🔭 I’m currently working on **my PhD project on technocratic reasoning**
-
-- 📫 How to reach me **ruben [at] rubenros [dot] nl**
+🔭 I’m currently working on my PhD project on technocratic reasoning. 
+📫 Reach me at **ruben [at] rubenros [dot] nl**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
